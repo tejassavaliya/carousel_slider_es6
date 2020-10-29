@@ -1,0 +1,37 @@
+{
+  "name": "carousel_javascript",
+  "version": "1.0.0",
+  "description": "Carousel slider with next previous button and dots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejassavaliya/carousel_javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "slider",
+    "carousel",
+    "es6",
+    "slideshow"
+  ],
+  "author": "Tejas Savaliya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejassavaliya/carousel_javascript/issues"
+  },
+  "homepage": "https://github.com/tejassavaliya/carousel_javascript#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "eventemitter3": "^4.0.7",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.3.0",
+    "webpack-cli": "^4.1.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
